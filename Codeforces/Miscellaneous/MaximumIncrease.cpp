@@ -26,8 +26,7 @@ int main()
                 len=1;
             }
         }
-         maxi=max(maxi,len);
+        maxi=max(maxi,len);
         cout<<maxi<<"\n";
-
     }
 }
